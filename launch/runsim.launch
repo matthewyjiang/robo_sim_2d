@@ -1,0 +1,13 @@
+<launch>
+    <!-- Launch file for robo_sim_2d -->
+
+    <!-- Include other launch files if necessary -->
+    <!-- <include file="$(find some_package)/launch/another_launch_file.launch"/> -->
+
+    <!-- Example node -->
+    <node name="sim_node" pkg="robo_sim_2d" type="main.py" output="screen">
+        <!-- Example parameters -->
+        <!-- <param name="param_name" value="param_value"/> -->
+    </node>
+
+</launch>

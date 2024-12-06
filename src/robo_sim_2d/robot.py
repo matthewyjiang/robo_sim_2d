@@ -1,4 +1,4 @@
-from entity import Entity
+from robo_sim_2d.entity import Entity
 import math
 import pygame
 
